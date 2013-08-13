@@ -28,7 +28,9 @@ TradeHero style for Java programming
     <module name="LeftCurly">
       <property name="option" value="nl"/>
     </module>
-	<module name="NeedBraces"/>
-	<module name="RightCurly"/>
+    <module name="NeedBraces"/>
+    <module name="RightCurly">
+      <property name="option" value="alone"/>
+    </module>
   </module>
 </module>
