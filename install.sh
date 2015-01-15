@@ -12,4 +12,4 @@ done
 
 echo "Done."
 echo ""
-echo "Restart IntelliJ and/or AndroidStudio, go to preferences, and apply 'TradeHero'.
+echo "Restart IntelliJ and/or AndroidStudio, go to preferences, and apply 'TradeHero'."
